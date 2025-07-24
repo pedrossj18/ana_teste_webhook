@@ -1,0 +1,4080 @@
+{
+    "intervencao": "SFR_016",
+    "leituras": [
+        
+        {
+            "horario": "2025-07-18T13:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4738522,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T14:00:00-03:00",
+            "vazao": 0.54,
+            "duracao": 900,
+            "volume": 4739007,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T14:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4739472,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T14:30:00-03:00",
+            "vazao": 0.54,
+            "duracao": 840,
+            "volume": 4739928,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T14:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4740393,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T15:00:00-03:00",
+            "vazao": 0.54,
+            "duracao": 900,
+            "volume": 4740880,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T15:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4741345,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T15:30:00-03:00",
+            "vazao": 0.54,
+            "duracao": 840,
+            "volume": 4741795,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T15:45:00-03:00",
+            "vazao": 0.48,
+            "duracao": 900,
+            "volume": 4742230,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T16:00:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4742704,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T16:15:00-03:00",
+            "vazao": 0.67,
+            "duracao": 900,
+            "volume": 4743304,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T16:30:00-03:00",
+            "vazao": 0.67,
+            "duracao": 900,
+            "volume": 4743908,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T16:45:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4743908,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T17:00:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4743908,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T17:15:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4743908,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T17:30:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4743908,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T17:45:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4743908,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T18:00:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4743908,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T18:15:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4743908,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T18:30:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4743908,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T18:45:00-03:00",
+            "vazao": 0.0,
+            "duracao": 480,
+            "volume": 4743908,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T19:00:00-03:00",
+            "vazao": 0.0,
+            "duracao": 900,
+            "volume": 4743908,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T19:15:00-03:00",
+            "vazao": 0.0,
+            "duracao": 900,
+            "volume": 4743909,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T19:30:00-03:00",
+            "vazao": 0.0,
+            "duracao": 900,
+            "volume": 4743909,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T19:45:00-03:00",
+            "vazao": 0.15,
+            "duracao": 840,
+            "volume": 4744035,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T20:00:00-03:00",
+            "vazao": 0.42,
+            "duracao": 900,
+            "volume": 4744410,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T20:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4744878,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T20:30:00-03:00",
+            "vazao": 0.73,
+            "duracao": 900,
+            "volume": 4745538,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T20:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 840,
+            "volume": 4746164,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T21:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4746839,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T21:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4747518,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T21:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4748193,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T21:45:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4748883,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T22:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 840,
+            "volume": 4749513,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T22:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4750188,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T22:30:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4750881,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T22:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4751556,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T23:00:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 4752206,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T23:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4752881,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T23:30:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4753577,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-18T23:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4754252,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T00:00:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 4754901,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T00:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4755576,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T00:30:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4756269,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T00:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4756944,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T01:00:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 4757589,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T01:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4758264,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T01:30:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4758957,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T01:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4759632,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T02:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 840,
+            "volume": 4760264,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T02:15:00-03:00",
+            "vazao": 0.67,
+            "duracao": 900,
+            "volume": 4760864,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T02:30:00-03:00",
+            "vazao": 0.69,
+            "duracao": 900,
+            "volume": 4761484,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T02:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4761949,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T03:00:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4762424,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T03:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 840,
+            "volume": 4762858,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T03:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4763323,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T03:45:00-03:00",
+            "vazao": 0.51,
+            "duracao": 900,
+            "volume": 4763780,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T04:00:00-03:00",
+            "vazao": 0.5,
+            "duracao": 900,
+            "volume": 4764230,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T04:15:00-03:00",
+            "vazao": 0.55,
+            "duracao": 840,
+            "volume": 4764690,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T04:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4765155,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T04:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4765624,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T05:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4766089,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T05:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 840,
+            "volume": 4766529,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T05:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4766994,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T05:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4767460,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T06:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4767925,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T06:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 840,
+            "volume": 4768359,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T06:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4768824,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T06:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4769292,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T07:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4769757,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T07:15:00-03:00",
+            "vazao": 0.54,
+            "duracao": 840,
+            "volume": 4770207,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T07:30:00-03:00",
+            "vazao": 0.65,
+            "duracao": 900,
+            "volume": 4770792,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T07:45:00-03:00",
+            "vazao": 0.67,
+            "duracao": 900,
+            "volume": 4771398,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T08:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4772073,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T08:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4772748,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T08:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 840,
+            "volume": 4773378,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T08:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4774053,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T09:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4774728,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T09:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4775403,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T09:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 840,
+            "volume": 4776035,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T09:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4776710,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T10:00:00-03:00",
+            "vazao": 0.76,
+            "duracao": 900,
+            "volume": 4777392,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T10:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4778067,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T10:30:00-03:00",
+            "vazao": 0.67,
+            "duracao": 840,
+            "volume": 4778628,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T10:45:00-03:00",
+            "vazao": 0.6,
+            "duracao": 900,
+            "volume": 4779168,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T11:00:00-03:00",
+            "vazao": 0.56,
+            "duracao": 900,
+            "volume": 4779676,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T11:15:00-03:00",
+            "vazao": 0.5,
+            "duracao": 900,
+            "volume": 4780126,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T11:30:00-03:00",
+            "vazao": 0.53,
+            "duracao": 840,
+            "volume": 4780570,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T11:45:00-03:00",
+            "vazao": 0.5,
+            "duracao": 900,
+            "volume": 4781020,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T12:00:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4781496,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T12:15:00-03:00",
+            "vazao": 0.5,
+            "duracao": 900,
+            "volume": 4781946,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T12:30:00-03:00",
+            "vazao": 0.53,
+            "duracao": 840,
+            "volume": 4782389,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T12:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4782854,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T13:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4783319,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T13:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4783784,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T13:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4784252,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T13:45:00-03:00",
+            "vazao": 0.5,
+            "duracao": 840,
+            "volume": 4784672,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T14:00:00-03:00",
+            "vazao": 0.5,
+            "duracao": 900,
+            "volume": 4785122,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T14:15:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4785602,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T14:30:00-03:00",
+            "vazao": 0.5,
+            "duracao": 900,
+            "volume": 4786052,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T14:45:00-03:00",
+            "vazao": 0.53,
+            "duracao": 840,
+            "volume": 4786498,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T15:00:00-03:00",
+            "vazao": 0.5,
+            "duracao": 900,
+            "volume": 4786948,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T15:15:00-03:00",
+            "vazao": 0.54,
+            "duracao": 900,
+            "volume": 4787437,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T15:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4787902,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T15:45:00-03:00",
+            "vazao": 0.57,
+            "duracao": 840,
+            "volume": 4788385,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T16:00:00-03:00",
+            "vazao": 0.62,
+            "duracao": 900,
+            "volume": 4788940,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T16:15:00-03:00",
+            "vazao": 0.68,
+            "duracao": 900,
+            "volume": 4789556,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T16:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4790231,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T16:45:00-03:00",
+            "vazao": 0.78,
+            "duracao": 840,
+            "volume": 4790884,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T17:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4791559,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T17:15:00-03:00",
+            "vazao": 0.78,
+            "duracao": 900,
+            "volume": 4792260,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T17:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4792935,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T17:45:00-03:00",
+            "vazao": 0.78,
+            "duracao": 840,
+            "volume": 4793590,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T18:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4794265,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T18:15:00-03:00",
+            "vazao": 0.78,
+            "duracao": 900,
+            "volume": 4794966,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T18:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4795641,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T18:45:00-03:00",
+            "vazao": 0.78,
+            "duracao": 900,
+            "volume": 4796341,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T19:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 840,
+            "volume": 4796971,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T19:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4797646,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T19:30:00-03:00",
+            "vazao": 0.78,
+            "duracao": 900,
+            "volume": 4798349,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T19:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4799024,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T20:00:00-03:00",
+            "vazao": 0.78,
+            "duracao": 840,
+            "volume": 4799677,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T20:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4800352,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T20:30:00-03:00",
+            "vazao": 0.78,
+            "duracao": 900,
+            "volume": 4801052,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T20:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4801727,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T21:00:00-03:00",
+            "vazao": 0.78,
+            "duracao": 840,
+            "volume": 4802379,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T21:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4803054,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T21:30:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4803749,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T21:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4804424,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T22:00:00-03:00",
+            "vazao": 0.78,
+            "duracao": 840,
+            "volume": 4805075,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T22:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4805750,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T22:30:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4806447,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T22:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4807122,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T23:00:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 4807770,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T23:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4808445,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T23:30:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4809140,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-19T23:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4809815,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T00:00:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4810505,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T00:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 840,
+            "volume": 4811135,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T00:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4811810,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T00:45:00-03:00",
+            "vazao": 0.43,
+            "duracao": 900,
+            "volume": 4812199,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T01:00:00-03:00",
+            "vazao": 0.37,
+            "duracao": 900,
+            "volume": 4812529,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T01:15:00-03:00",
+            "vazao": 0.3,
+            "duracao": 840,
+            "volume": 4812782,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T01:30:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4813022,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T01:45:00-03:00",
+            "vazao": 0.29,
+            "duracao": 900,
+            "volume": 4813281,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T02:00:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4813521,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T02:15:00-03:00",
+            "vazao": 0.28,
+            "duracao": 840,
+            "volume": 4813759,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T02:30:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4813999,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T02:45:00-03:00",
+            "vazao": 0.28,
+            "duracao": 900,
+            "volume": 4814255,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T03:00:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4814495,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T03:15:00-03:00",
+            "vazao": 0.28,
+            "duracao": 840,
+            "volume": 4814734,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T03:30:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4814974,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T03:45:00-03:00",
+            "vazao": 0.28,
+            "duracao": 900,
+            "volume": 4815230,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T04:00:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4815470,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T04:15:00-03:00",
+            "vazao": 0.33,
+            "duracao": 840,
+            "volume": 4815743,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T04:30:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4816223,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T04:45:00-03:00",
+            "vazao": 0.57,
+            "duracao": 900,
+            "volume": 4816733,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T05:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4817408,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T05:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4818085,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T05:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 840,
+            "volume": 4818715,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T05:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4819390,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T06:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4820068,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T06:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4820743,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T06:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 840,
+            "volume": 4821376,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T06:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4822051,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T07:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4822729,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T07:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4823404,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T07:30:00-03:00",
+            "vazao": 0.74,
+            "duracao": 840,
+            "volume": 4824027,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T07:45:00-03:00",
+            "vazao": 0.73,
+            "duracao": 900,
+            "volume": 4824687,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T08:00:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4825383,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T08:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4826058,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T08:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 840,
+            "volume": 4826692,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T08:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4827367,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T09:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4828046,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T09:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4828721,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T09:30:00-03:00",
+            "vazao": 0.76,
+            "duracao": 840,
+            "volume": 4829356,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T09:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4830031,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T10:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4830708,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T10:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4831383,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T10:30:00-03:00",
+            "vazao": 0.76,
+            "duracao": 900,
+            "volume": 4832063,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T10:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 840,
+            "volume": 4832693,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T11:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4833368,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T11:15:00-03:00",
+            "vazao": 0.76,
+            "duracao": 900,
+            "volume": 4834053,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T11:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4834728,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T11:45:00-03:00",
+            "vazao": 0.76,
+            "duracao": 840,
+            "volume": 4835368,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T12:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4836043,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T12:15:00-03:00",
+            "vazao": 0.76,
+            "duracao": 900,
+            "volume": 4836728,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T12:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4837403,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T12:45:00-03:00",
+            "vazao": 0.76,
+            "duracao": 840,
+            "volume": 4838044,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T13:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4838719,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T13:15:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4839410,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T13:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4840085,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T13:45:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 4840733,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T14:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4841408,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T14:15:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4842102,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T14:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4842777,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T14:45:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 4843425,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T15:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4844100,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T15:15:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4844793,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T15:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4845468,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T15:45:00-03:00",
+            "vazao": 0.78,
+            "duracao": 900,
+            "volume": 4846168,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T16:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 840,
+            "volume": 4846798,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T16:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4847473,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T16:30:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4848168,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T16:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4848843,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T17:00:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 4849493,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T17:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4850168,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T17:30:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4850863,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T17:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4851538,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T18:00:00-03:00",
+            "vazao": 0.78,
+            "duracao": 840,
+            "volume": 4852193,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T18:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4852868,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T18:30:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4853564,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T18:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4854239,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T19:00:00-03:00",
+            "vazao": 0.78,
+            "duracao": 840,
+            "volume": 4854893,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T19:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4855568,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T19:30:00-03:00",
+            "vazao": 0.78,
+            "duracao": 900,
+            "volume": 4856266,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T19:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4856941,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T20:00:00-03:00",
+            "vazao": 0.78,
+            "duracao": 840,
+            "volume": 4857598,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T20:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4858273,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T20:30:00-03:00",
+            "vazao": 0.78,
+            "duracao": 900,
+            "volume": 4858974,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T20:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4859649,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T21:00:00-03:00",
+            "vazao": 0.78,
+            "duracao": 900,
+            "volume": 4860347,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T21:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 840,
+            "volume": 4860977,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T21:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4861652,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T21:45:00-03:00",
+            "vazao": 0.6,
+            "duracao": 900,
+            "volume": 4862191,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T22:00:00-03:00",
+            "vazao": 0.55,
+            "duracao": 900,
+            "volume": 4862686,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T22:15:00-03:00",
+            "vazao": 0.53,
+            "duracao": 840,
+            "volume": 4863127,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T22:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4863592,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T22:45:00-03:00",
+            "vazao": 0.55,
+            "duracao": 900,
+            "volume": 4864083,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T23:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4864548,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T23:15:00-03:00",
+            "vazao": 0.55,
+            "duracao": 840,
+            "volume": 4865009,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T23:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4865474,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-20T23:45:00-03:00",
+            "vazao": 0.54,
+            "duracao": 900,
+            "volume": 4865963,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T00:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4866428,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T00:15:00-03:00",
+            "vazao": 0.55,
+            "duracao": 840,
+            "volume": 4866887,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T00:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4867352,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T00:45:00-03:00",
+            "vazao": 0.54,
+            "duracao": 900,
+            "volume": 4867842,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T01:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4868307,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T01:15:00-03:00",
+            "vazao": 0.54,
+            "duracao": 840,
+            "volume": 4868763,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T01:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4869228,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T01:45:00-03:00",
+            "vazao": 0.54,
+            "duracao": 900,
+            "volume": 4869713,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T02:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4870178,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T02:15:00-03:00",
+            "vazao": 0.54,
+            "duracao": 900,
+            "volume": 4870662,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T02:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 840,
+            "volume": 4871096,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T02:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4871561,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T03:00:00-03:00",
+            "vazao": 0.54,
+            "duracao": 900,
+            "volume": 4872044,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T03:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4872509,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T03:30:00-03:00",
+            "vazao": 0.55,
+            "duracao": 840,
+            "volume": 4872967,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T03:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4873432,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T04:00:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4873909,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T04:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4874374,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T04:30:00-03:00",
+            "vazao": 0.54,
+            "duracao": 840,
+            "volume": 4874824,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T04:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4875289,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T05:00:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4875770,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T05:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4876235,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T05:30:00-03:00",
+            "vazao": 0.53,
+            "duracao": 840,
+            "volume": 4876678,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T05:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4877143,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T06:00:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4877620,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T06:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4878085,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T06:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 840,
+            "volume": 4878525,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T06:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4878990,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T07:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4879460,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T07:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4879925,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T07:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4880395,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T07:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 840,
+            "volume": 4880829,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T08:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4881294,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T08:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4881764,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T08:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4882229,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T08:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 840,
+            "volume": 4882668,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T09:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4883133,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T09:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4883605,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T09:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4884070,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T09:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 840,
+            "volume": 4884510,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T10:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4884975,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T10:15:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4885451,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T10:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4885916,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T10:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 840,
+            "volume": 4886356,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T11:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4886821,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T11:15:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4887294,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T11:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4887759,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T11:45:00-03:00",
+            "vazao": 0.53,
+            "duracao": 840,
+            "volume": 4888203,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T12:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4888668,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T12:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4889140,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T12:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4889605,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T12:45:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4890083,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T13:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 840,
+            "volume": 4890517,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T13:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4890982,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T13:30:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4891460,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T13:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4891925,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T14:00:00-03:00",
+            "vazao": 0.54,
+            "duracao": 840,
+            "volume": 4892375,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T14:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4892840,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T14:30:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4893320,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T14:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4893785,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T15:00:00-03:00",
+            "vazao": 0.54,
+            "duracao": 840,
+            "volume": 4894235,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T15:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4894700,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T15:30:00-03:00",
+            "vazao": 0.54,
+            "duracao": 900,
+            "volume": 4895184,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T15:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4895649,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T16:00:00-03:00",
+            "vazao": 0.53,
+            "duracao": 840,
+            "volume": 4896096,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T16:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4896561,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T16:30:00-03:00",
+            "vazao": 0.39,
+            "duracao": 900,
+            "volume": 4896915,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T16:45:00-03:00",
+            "vazao": 0.0,
+            "duracao": 900,
+            "volume": 4896915,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T17:00:00-03:00",
+            "vazao": 0.0,
+            "duracao": 720,
+            "volume": 4896918,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T17:15:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4896918,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T17:30:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4896918,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T17:45:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4896918,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T18:00:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4896918,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T18:15:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4896918,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T18:30:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4896918,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T18:45:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4896918,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T19:00:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4896918,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T19:15:00-03:00",
+            "vazao": 0.0,
+            "duracao": 660,
+            "volume": 4896918,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T19:30:00-03:00",
+            "vazao": 0.0,
+            "duracao": 900,
+            "volume": 4896918,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T19:45:00-03:00",
+            "vazao": 0.0,
+            "duracao": 300,
+            "volume": 4896919,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T20:00:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4896919,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T20:15:00-03:00",
+            "vazao": 0.5,
+            "duracao": 480,
+            "volume": 4897159,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T20:30:00-03:00",
+            "vazao": 0.5,
+            "duracao": 900,
+            "volume": 4897609,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T20:45:00-03:00",
+            "vazao": 0.63,
+            "duracao": 900,
+            "volume": 4898176,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T21:00:00-03:00",
+            "vazao": 0.73,
+            "duracao": 900,
+            "volume": 4898836,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T21:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 840,
+            "volume": 4899469,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T21:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4900144,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T21:45:00-03:00",
+            "vazao": 0.76,
+            "duracao": 900,
+            "volume": 4900824,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T22:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4901499,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T22:15:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 4902144,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T22:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4902819,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T22:45:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4903511,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T23:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4904186,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T23:15:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4904880,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T23:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 840,
+            "volume": 4905510,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-21T23:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4906185,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T00:00:00-03:00",
+            "vazao": 0.78,
+            "duracao": 900,
+            "volume": 4906884,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T00:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4907559,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T00:30:00-03:00",
+            "vazao": 0.78,
+            "duracao": 840,
+            "volume": 4908212,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T00:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4908887,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T01:00:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4909582,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T01:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4910257,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T01:30:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 4910903,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T01:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4911578,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T02:00:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4912267,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T02:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4912942,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T02:30:00-03:00",
+            "vazao": 0.76,
+            "duracao": 840,
+            "volume": 4913580,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T02:45:00-03:00",
+            "vazao": 0.73,
+            "duracao": 900,
+            "volume": 4914240,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T03:00:00-03:00",
+            "vazao": 0.73,
+            "duracao": 660,
+            "volume": 4914724,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T03:15:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4914724,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T03:30:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4914724,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T03:45:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4914724,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T04:00:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4914724,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T04:15:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4914724,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T04:30:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4914724,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T04:45:00-03:00",
+            "vazao": 0.22,
+            "duracao": 840,
+            "volume": 4914906,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T05:00:00-03:00",
+            "vazao": 0.22,
+            "duracao": 900,
+            "volume": 4915101,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T05:15:00-03:00",
+            "vazao": 0.29,
+            "duracao": 900,
+            "volume": 4915361,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T05:30:00-03:00",
+            "vazao": 0.3,
+            "duracao": 900,
+            "volume": 4915631,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T05:45:00-03:00",
+            "vazao": 0.29,
+            "duracao": 840,
+            "volume": 4915876,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T06:00:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4916116,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T06:15:00-03:00",
+            "vazao": 0.29,
+            "duracao": 900,
+            "volume": 4916374,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T06:30:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4916614,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T06:45:00-03:00",
+            "vazao": 0.29,
+            "duracao": 840,
+            "volume": 4916857,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T07:00:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4917097,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T07:15:00-03:00",
+            "vazao": 0.29,
+            "duracao": 900,
+            "volume": 4917355,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T07:30:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4917595,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T07:45:00-03:00",
+            "vazao": 0.29,
+            "duracao": 900,
+            "volume": 4917853,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T08:00:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4918093,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T08:15:00-03:00",
+            "vazao": 0.29,
+            "duracao": 840,
+            "volume": 4918336,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T08:30:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4918576,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T08:45:00-03:00",
+            "vazao": 0.29,
+            "duracao": 900,
+            "volume": 4918835,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T09:00:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4919075,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T09:15:00-03:00",
+            "vazao": 0.29,
+            "duracao": 840,
+            "volume": 4919317,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T09:30:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4919557,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T09:45:00-03:00",
+            "vazao": 0.29,
+            "duracao": 900,
+            "volume": 4919814,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T10:00:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4920054,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T10:15:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4920294,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T10:30:00-03:00",
+            "vazao": 0.29,
+            "duracao": 840,
+            "volume": 4920536,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T10:45:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4920776,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T11:00:00-03:00",
+            "vazao": 0.29,
+            "duracao": 900,
+            "volume": 4921034,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T11:15:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4921274,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T11:30:00-03:00",
+            "vazao": 0.29,
+            "duracao": 840,
+            "volume": 4921516,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T11:45:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4921756,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T12:00:00-03:00",
+            "vazao": 0.29,
+            "duracao": 900,
+            "volume": 4922015,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T12:15:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4922255,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T12:30:00-03:00",
+            "vazao": 0.38,
+            "duracao": 840,
+            "volume": 4922570,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T12:45:00-03:00",
+            "vazao": 0.43,
+            "duracao": 900,
+            "volume": 4922960,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T13:00:00-03:00",
+            "vazao": 0.59,
+            "duracao": 900,
+            "volume": 4923489,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T13:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4924164,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T13:30:00-03:00",
+            "vazao": 0.76,
+            "duracao": 840,
+            "volume": 4924805,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T13:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4925480,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T14:00:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4926172,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T14:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4926847,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T14:30:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 4927492,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T14:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4928167,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T15:00:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4928858,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T15:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4929533,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T15:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4930208,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T15:45:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 4930856,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T16:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4931531,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T16:15:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4932225,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T16:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4932900,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T16:45:00-03:00",
+            "vazao": 0.24,
+            "duracao": 840,
+            "volume": 4933098,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T17:00:00-03:00",
+            "vazao": 0.0,
+            "duracao": 900,
+            "volume": 4933098,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T17:15:00-03:00",
+            "vazao": 0.05,
+            "duracao": 360,
+            "volume": 4933115,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T17:30:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4933115,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T17:45:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4933115,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T18:00:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4933115,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T18:15:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4933115,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T18:30:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4933115,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T18:45:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4933115,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T19:00:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4933115,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T19:15:00-03:00",
+            "vazao": 0.02,
+            "duracao": 180,
+            "volume": 4933118,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T19:30:00-03:00",
+            "vazao": 0.02,
+            "duracao": 900,
+            "volume": 4933133,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T19:45:00-03:00",
+            "vazao": 0.06,
+            "duracao": 840,
+            "volume": 4933187,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T20:00:00-03:00",
+            "vazao": 0.43,
+            "duracao": 900,
+            "volume": 4933577,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T20:15:00-03:00",
+            "vazao": 0.47,
+            "duracao": 900,
+            "volume": 4933996,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T20:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4934461,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T20:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4934926,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T21:00:00-03:00",
+            "vazao": 0.19,
+            "duracao": 840,
+            "volume": 4935084,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T21:15:00-03:00",
+            "vazao": 0.13,
+            "duracao": 900,
+            "volume": 4935204,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T21:30:00-03:00",
+            "vazao": 0.27,
+            "duracao": 180,
+            "volume": 4935252,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T21:45:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4935252,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T22:00:00-03:00",
+            "vazao": 0.55,
+            "duracao": 600,
+            "volume": 4935582,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T22:15:00-03:00",
+            "vazao": 0.55,
+            "duracao": 900,
+            "volume": 4936077,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T22:30:00-03:00",
+            "vazao": 0.7,
+            "duracao": 900,
+            "volume": 4936708,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T22:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4937383,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T23:00:00-03:00",
+            "vazao": 0.76,
+            "duracao": 840,
+            "volume": 4938023,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T23:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4938698,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T23:30:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4939388,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-22T23:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4940063,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T00:00:00-03:00",
+            "vazao": 0.78,
+            "duracao": 840,
+            "volume": 4940715,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T00:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4941390,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T00:30:00-03:00",
+            "vazao": 0.73,
+            "duracao": 900,
+            "volume": 4942046,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T00:45:00-03:00",
+            "vazao": 0.55,
+            "duracao": 900,
+            "volume": 4942541,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T01:00:00-03:00",
+            "vazao": 0.55,
+            "duracao": 840,
+            "volume": 4943002,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T01:15:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4943482,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T01:30:00-03:00",
+            "vazao": 0.55,
+            "duracao": 900,
+            "volume": 4943979,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T01:45:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4944459,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T02:00:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4944939,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T02:15:00-03:00",
+            "vazao": 0.55,
+            "duracao": 840,
+            "volume": 4945405,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T02:30:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4945885,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T02:45:00-03:00",
+            "vazao": 0.33,
+            "duracao": 900,
+            "volume": 4946182,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T03:00:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4946422,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T03:15:00-03:00",
+            "vazao": 0.29,
+            "duracao": 840,
+            "volume": 4946662,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T03:30:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4946902,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T03:45:00-03:00",
+            "vazao": 0.29,
+            "duracao": 900,
+            "volume": 4947163,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T04:00:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4947403,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T04:15:00-03:00",
+            "vazao": 0.29,
+            "duracao": 840,
+            "volume": 4947647,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T04:30:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4947887,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T04:45:00-03:00",
+            "vazao": 0.43,
+            "duracao": 900,
+            "volume": 4948277,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T05:00:00-03:00",
+            "vazao": 0.63,
+            "duracao": 900,
+            "volume": 4948847,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T05:15:00-03:00",
+            "vazao": 0.68,
+            "duracao": 840,
+            "volume": 4949419,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T05:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4950094,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T05:45:00-03:00",
+            "vazao": 0.76,
+            "duracao": 900,
+            "volume": 4950774,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T06:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4951449,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T06:15:00-03:00",
+            "vazao": 0.76,
+            "duracao": 840,
+            "volume": 4952085,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T06:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4952760,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T06:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4953439,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T07:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4954114,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T07:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4954789,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T07:30:00-03:00",
+            "vazao": 0.66,
+            "duracao": 840,
+            "volume": 4955343,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T07:45:00-03:00",
+            "vazao": 0.65,
+            "duracao": 900,
+            "volume": 4955928,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T08:00:00-03:00",
+            "vazao": 0.36,
+            "duracao": 900,
+            "volume": 4956254,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T08:15:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4956494,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T08:30:00-03:00",
+            "vazao": 0.27,
+            "duracao": 840,
+            "volume": 4956722,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T08:45:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4956962,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T09:00:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4957203,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T09:15:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4957443,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T09:30:00-03:00",
+            "vazao": 0.27,
+            "duracao": 840,
+            "volume": 4957668,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T09:45:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4957908,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T10:00:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4958151,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T10:15:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4958391,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T10:30:00-03:00",
+            "vazao": 0.27,
+            "duracao": 840,
+            "volume": 4958615,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T10:45:00-03:00",
+            "vazao": 0.27,
+            "duracao": 900,
+            "volume": 4958855,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T11:00:00-03:00",
+            "vazao": 0.31,
+            "duracao": 900,
+            "volume": 4959138,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T11:15:00-03:00",
+            "vazao": 0.48,
+            "duracao": 900,
+            "volume": 4959573,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T11:30:00-03:00",
+            "vazao": 0.51,
+            "duracao": 840,
+            "volume": 4960003,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T11:45:00-03:00",
+            "vazao": 0.5,
+            "duracao": 900,
+            "volume": 4960453,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T12:00:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4960933,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T12:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4961398,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T12:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4961863,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T12:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 840,
+            "volume": 4962300,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T13:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4962765,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T13:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4963234,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T13:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4963699,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T13:45:00-03:00",
+            "vazao": 0.52,
+            "duracao": 840,
+            "volume": 4964138,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T14:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4964603,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T14:15:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4965075,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T14:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4965540,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T14:45:00-03:00",
+            "vazao": 0.53,
+            "duracao": 840,
+            "volume": 4965981,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T15:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4966446,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T15:15:00-03:00",
+            "vazao": 0.53,
+            "duracao": 900,
+            "volume": 4966923,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T15:30:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4967388,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T15:45:00-03:00",
+            "vazao": 0.53,
+            "duracao": 840,
+            "volume": 4967832,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T16:00:00-03:00",
+            "vazao": 0.52,
+            "duracao": 900,
+            "volume": 4968297,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T16:15:00-03:00",
+            "vazao": 0.48,
+            "duracao": 900,
+            "volume": 4968730,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T16:30:00-03:00",
+            "vazao": 0.28,
+            "duracao": 900,
+            "volume": 4968985,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T16:45:00-03:00",
+            "vazao": 0.29,
+            "duracao": 780,
+            "volume": 4969214,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T17:00:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4969214,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T17:15:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4969214,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T17:30:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4969214,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T17:45:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4969214,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T18:00:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4969214,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T18:15:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4969214,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T18:30:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4969214,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T18:45:00-03:00",
+            "vazao": 0.0,
+            "duracao": 0,
+            "volume": 4969214,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T19:00:00-03:00",
+            "vazao": 0.0,
+            "duracao": 600,
+            "volume": 4969214,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T19:15:00-03:00",
+            "vazao": 0.0,
+            "duracao": 900,
+            "volume": 4969214,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T19:30:00-03:00",
+            "vazao": 0.06,
+            "duracao": 900,
+            "volume": 4969264,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T19:45:00-03:00",
+            "vazao": 0.07,
+            "duracao": 900,
+            "volume": 4969324,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T20:00:00-03:00",
+            "vazao": 0.37,
+            "duracao": 840,
+            "volume": 4969636,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T20:15:00-03:00",
+            "vazao": 0.62,
+            "duracao": 900,
+            "volume": 4970191,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T20:30:00-03:00",
+            "vazao": 0.67,
+            "duracao": 900,
+            "volume": 4970794,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T20:45:00-03:00",
+            "vazao": 0.73,
+            "duracao": 900,
+            "volume": 4971454,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T21:00:00-03:00",
+            "vazao": 0.76,
+            "duracao": 840,
+            "volume": 4972092,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T21:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4972767,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T21:30:00-03:00",
+            "vazao": 0.76,
+            "duracao": 900,
+            "volume": 4973448,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T21:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4974123,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T22:00:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 4974768,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T22:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4975443,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T22:30:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4976134,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T22:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4976809,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T23:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4977484,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T23:15:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 4978130,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T23:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4978805,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-23T23:45:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4979501,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T00:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4980176,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T00:15:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 4980825,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T00:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4981500,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T00:45:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 4982192,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T01:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4982867,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T01:15:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 4983511,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T01:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4984186,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T01:45:00-03:00",
+            "vazao": 0.76,
+            "duracao": 900,
+            "volume": 4984871,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T02:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4985546,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T02:15:00-03:00",
+            "vazao": 0.76,
+            "duracao": 840,
+            "volume": 4986187,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T02:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4986862,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T02:45:00-03:00",
+            "vazao": 0.76,
+            "duracao": 900,
+            "volume": 4987544,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T03:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4988219,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T03:15:00-03:00",
+            "vazao": 0.76,
+            "duracao": 840,
+            "volume": 4988858,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T03:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4989533,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T03:45:00-03:00",
+            "vazao": 0.76,
+            "duracao": 900,
+            "volume": 4990213,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T04:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4990888,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T04:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4991563,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T04:30:00-03:00",
+            "vazao": 0.76,
+            "duracao": 840,
+            "volume": 4992198,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T04:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4992873,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T05:00:00-03:00",
+            "vazao": 0.73,
+            "duracao": 900,
+            "volume": 4993531,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T05:15:00-03:00",
+            "vazao": 0.72,
+            "duracao": 900,
+            "volume": 4994176,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T05:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 840,
+            "volume": 4994808,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T05:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 4995483,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T06:00:00-03:00",
+            "vazao": 0.74,
+            "duracao": 900,
+            "volume": 4996151,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T06:15:00-03:00",
+            "vazao": 0.73,
+            "duracao": 900,
+            "volume": 4996811,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T06:30:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 4997455,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T06:45:00-03:00",
+            "vazao": 0.73,
+            "duracao": 900,
+            "volume": 4998115,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T07:00:00-03:00",
+            "vazao": 0.76,
+            "duracao": 900,
+            "volume": 4998803,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T07:15:00-03:00",
+            "vazao": 0.73,
+            "duracao": 900,
+            "volume": 4999463,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T07:30:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 5000106,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T07:45:00-03:00",
+            "vazao": 0.73,
+            "duracao": 900,
+            "volume": 5000766,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T08:00:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 5001455,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T08:15:00-03:00",
+            "vazao": 0.73,
+            "duracao": 900,
+            "volume": 5002115,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T08:30:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 5002762,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T08:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 5003437,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T09:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 5004113,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T09:15:00-03:00",
+            "vazao": 0.73,
+            "duracao": 900,
+            "volume": 5004773,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T09:30:00-03:00",
+            "vazao": 0.73,
+            "duracao": 900,
+            "volume": 5005433,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T09:45:00-03:00",
+            "vazao": 0.78,
+            "duracao": 840,
+            "volume": 5006091,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T10:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 5006766,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T10:15:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 5007445,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T10:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 5008120,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T10:45:00-03:00",
+            "vazao": 0.76,
+            "duracao": 840,
+            "volume": 5008756,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T11:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 5009431,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T11:15:00-03:00",
+            "vazao": 0.76,
+            "duracao": 900,
+            "volume": 5010112,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T11:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 5010787,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T11:45:00-03:00",
+            "vazao": 0.76,
+            "duracao": 840,
+            "volume": 5011429,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T12:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 5012104,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T12:15:00-03:00",
+            "vazao": 0.76,
+            "duracao": 900,
+            "volume": 5012789,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T12:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 5013464,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T12:45:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 5014109,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T13:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 5014784,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T13:15:00-03:00",
+            "vazao": 0.76,
+            "duracao": 900,
+            "volume": 5015470,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T13:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 5016145,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T13:45:00-03:00",
+            "vazao": 0.77,
+            "duracao": 840,
+            "volume": 5016792,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T14:00:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 5017467,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T14:15:00-03:00",
+            "vazao": 0.77,
+            "duracao": 900,
+            "volume": 5018157,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T14:30:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 5018832,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T14:45:00-03:00",
+            "vazao": 0.75,
+            "duracao": 900,
+            "volume": 5019507,
+            "codigoTransmissao": 100
+        },
+        {
+            "horario": "2025-07-24T15:00:00-03:00",
+            "vazao": 1.08,
+            "duracao": 60,
+            "volume": 5019572,
+            "codigoTransmissao": 100
+        }
+    ]
+}

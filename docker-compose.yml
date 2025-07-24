@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  ana-service-teste:
+    build: .
+    container_name: ana-service-teste
+    restart: always
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: cron -f

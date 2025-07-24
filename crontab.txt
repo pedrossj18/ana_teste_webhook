@@ -1,0 +1,1 @@
+*/5 * * * * /usr/local/bin/python /app/app/main.py >> /app/log_cron.txt 2>&1
